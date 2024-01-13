@@ -238,7 +238,7 @@ void printPath(node *root, int x,int y)
 
 int main()
 {
-    cout<<"\n-*-*-*-*-*-*-WELCOME TO THE CHESS BOARD GAME ARRANGED BY ASHISH SHIVANK AND TAIYAB -*-*-*-*-*-*-*\n\n";
+    cout<<"\n-*-*-*-*-*-*-WELCOME TO THE CHESS BOARD GAME -*-*-*-*-*-*-*\n\n";
     int a;
     int b,c,d;
     cout<<"\n enter the initial coordinates of knight";
